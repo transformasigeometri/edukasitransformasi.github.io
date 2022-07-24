@@ -1,0 +1,23 @@
+
+
+@media only screen and  (max-width: 1280px) {
+body {
+    background-color: orange;
+  }
+}
+
+@media only screen and  (max-width: 1024px) {
+body {
+    background-color: white;
+  }
+ article {
+    width:98.3vw;
+    height:75vh;
+  } 
+.kikd{
+ margin-left:21px;
+   margin-top: 15px;
+}
+}
+
+

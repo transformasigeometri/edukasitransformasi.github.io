@@ -1,0 +1,26 @@
+@media only screen and  (max-width: 992px) { /* NB k&i*/
+body {
+    background-color: white;
+  }
+ .kiri {
+	 width:98vw;
+    height:25vh;
+	font-size: 18px;
+  } 
+ .kanan {
+	 width:auto;
+    height:63vh;
+	font-size: 18px;
+  } 
+
+  nav {
+          width: 100%;
+        }
+.footer {
+
+        margin-top:  1139px;
+        }
+     
+}
+
+

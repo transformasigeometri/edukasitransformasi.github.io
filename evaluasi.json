@@ -1,0 +1,182 @@
+[{
+    "soal0": {
+        "soal": "Titik \\[B(6, -11)\\] ditranslasikan oleh \\[T=(a, b)\\] bayangannya menjadi \\[{B}'(-2, -2)\\]. Nilai \\[a + b\\] adalah . . . .",
+        "a": "a. -1",
+        "b": "b. 1",
+        "c": "c. 5",
+        "d": "d. 6",
+        "benar": "b"
+    }
+}, {
+    "soal1": {
+        "soal": "Bayangan titik \\[P(-4, 1)\\] jika ditranslasikan oleh \\[T=(5, -7)\\] adalah . . . .",
+        "a": "a. \\[{P}'(1, -6)\\]",
+        "b": "b. \\[{P}'(-1, 6)\\]",
+        "c": "c. \\[{P}'(6, -1)\\]",
+        "d": "d. \\[{P}'(-6, 1)\\]",
+        "benar": "a"
+    }
+
+}, {
+    "soal2": {
+        "soal": "Jika titik \\[{G}'(4, -1)\\] adalah bayangan titik dari \\[G(7, -5)\\] oleh translasi \\[T\\], maka nilai \\[T\\] adalah  . . . .",
+        "a": "a. \\[(4, 2)\\]",
+        "b": "b. \\[(1, 7)\\]",
+        "c": "c. \\[(2, 5)\\]",
+        "d": "d. \\[(-3, 4)\\]",
+        "benar": "d"
+    }
+}, {
+    "soal3": {
+        "soal": "Sebuah segitiga \\[ABC\\] mempunyai titik \\[A(-3, -2), B(2, 1)\\] dan \\[C(0, 4)\\] yang ditranslasikan oleh \\[T=(4, 1)\\]. Maka bayangan titik segitiga \\[ABC\\] adalah . . . .",
+        "a": "a. \\[{A}'(1, -1), {B}'(6, 2),\\] dan \\[{C}'(4, 5)\\]",
+        "b": "b. \\[{A}'(-1, 1), {B}'(-6, 2),\\] dan \\[{C}'(-4, 5)\\]",
+        "c": "c. \\[{A}'(1, -1), {B}'(6, -2),\\] dan \\[{C}'(4, -5)\\]",
+        "d": "d. \\[{A}'(-1, -1), {B}'(-6, -2),\\] dan \\[{C}'(-4, -5)\\]",
+        "benar": "a"
+    }
+}, {
+    "soal4": {
+        "soal": "Titik \\[R(3, 2)\\] dicerminkan terhadap sumbu \\[x\\], maka \\[{R}'\\] adalah . . . .",
+        "a": "a. \\[(2, 3)\\]",
+        "b": "b. \\[(-3, -2)\\]",
+        "c": "c. \\[(-3, 2)\\]",
+        "d": "d. \\[(3, -2)\\]",
+        "benar": "d"
+    }
+}, {
+    "soal5": {
+        "soal": "Titik \\[(4, 2)\\] direfleksikan terhadap garis \\[y=-x\\]. Koordinat titik bayangannya adalah . . . .",
+        "a": "a. \\[(2, -4)\\]",
+        "b": "b. \\[(-2, 4)\\]",
+        "c": "c. \\[(2, 4)\\]",
+        "d": "d. \\[(4, -2)\\]",
+        "benar": "b"
+    }
+}, {
+    "soal6": {
+        "soal": "Jika garis \\[x - 2y = 3\\] dicerminkan terhadap sumbu \\[y\\], maka persamaan bayangannya adalah . . . .",
+        "a": "a. \\[-x - 2y = -3\\]",
+        "b": "b. \\[-x - 2y = 3\\]",
+        "c": "c. \\[x + 2y = 3\\]",
+        "d": "d. \\[-x + 2y = -3\\]",
+        "benar": "b"
+    }
+}, {
+    "soal7": {
+        "soal": "Berikut ini yang bukan titik asal beserta bayangan hasil pencerminan terhadap garis \\[x = -4\\] adalah . . . .",
+        "a": "a. \\[P(-3, 2)\\rightarrow{P}'(-5, 2)\\]",
+        "b": "b. \\[R(1, -7)\\rightarrow{R}'(-9, -7)\\]",
+        "c": "c. \\[Q(-6, -1)\\rightarrow{P}'(2, -1)\\]",
+        "d": "d. \\[S(4, 8)\\rightarrow{S}'(-12, 8)\\]",
+        "benar": "c"
+    }
+}, {
+    "soal8": {
+        "soal": "Titik \\[A(-3, 6)\\] dirotasikan dengan pusat di \\[O(0, 0)\\] sebesar \\[180^{\\circ}\\], maka bayangan koordinat titik \\[A\\] adalah . . . .",
+        "a": "a. \\[(-3, -6)\\]",
+        "b": "b. \\[(3, -6)\\]",
+        "c": "c. \\[(-6, -3)\\]",
+        "d": "d. \\[(-6, 3)\\]",
+        "benar": "b"
+    }
+}, {
+    "soal9": {
+        "soal": "Bayangan dari titik \\[B(-2, 3)\\] yang dirotasikan sebesar \\[[0, 90^{\\circ}]\\] berlawanan arah jarum jam adalah . . . .",
+        "a": "a. \\[{B}'(2, -3)\\]",
+        "b": "b. \\[{B}'(3, -2)\\]",
+        "c": "c. \\[{B}'(-3, -2)\\]",
+        "d": "d. \\[{B}'(3, 2)\\]",
+        "benar": "c"
+    }
+}, {
+    "soal10": {
+        "soal": "Titik \\[R(-3, 8)\\] diputar sejauh \\[90^{\\circ}\\] dengan pusat perputaran \\[(0, 0)\\] menghasilkan bayangan \\[{B}'(p - 2, q - 2)\\]. Nilai \\[p + q\\] adalah . . . .",
+        "a": "a. \\[-7\\]",
+        "b": "b. \\[1\\]",
+        "c": "c. \\[9\\]",
+        "d": "d. \\[13\\]",
+        "benar": "a"
+    }
+}, {
+    "soal11": {
+        "soal": "Hasil rotasi titik \\[Q(5, 2)\\] yang dirotasikan sebesar \\[90^{\\circ}\\] searah jarum jam terhadap titik pusat \\[P(3, 1\\] adalah . . . .",
+        "a": "a. \\[{Q}'(6, -1)\\]",
+        "b": "b. \\[{Q}'(6, 1)\\]",
+        "c": "c. \\[{Q}'(4, -1)\\]",
+        "d": "d. \\[{Q}'(4, 1)\\]",
+        "benar": "c"
+    }
+}, {
+    "soal12": {
+        "soal": "Jika titik \\[K(2, -7)\\] direfleksikan terhadap sumbu \\[x\\] dan dilanjutkan dengan rotasi sejauh \\[90^{\\circ}\\] dengan titik pusat rotasi \\[(0, 0)\\]. Maka bayangan akhirnya adalah . . . .",
+        "a": "a. \\[{K}''(7, 2)\\]",
+        "b": "b. \\[{K}''(-7, 2)\\]",
+        "c": "c. \\[{K}''(7, -2)\\]",
+        "d": "d. \\[{K}''(-2, 7)\\]",
+        "benar": "b"
+    }
+}, {
+    "soal13": {
+        "soal": "Titik \\[{S}'(-16, 24)\\] merupakan bayangan dari titik \\[S(x, y)\\] yang didilatasikan dengan titik pusat \\[(0,0)\\] dan faktor skala \\[-4\\]. Koordinat titik \\[S\\] adalah . . . .",
+        "a": "a. \\[(4, -6)\\]",
+        "b": "b. \\[(-4, 6)\\]",
+        "c": "c. \\[(4, 6)\\]",
+        "d": "d. \\[(4, -6)\\]",
+        "benar": "a"
+    }
+}, {
+    "soal14": {
+        "soal": "Diketahui titik \\[H(-2, -1)\\] didilatasikan dengan faktor skala \\[k\\] terhadap titik pusat \\[(0, -3)\\] menghasilkan titik \\[{H}'(4, -7)\\]. Nilai \\[k\\] yang memenuhi adalah . . . . ",
+        "a": "a. \\[-3\\]",
+        "b": "b. \\[-2\\]",
+        "c": "c. \\[2\\]",
+        "d": "d. \\[3\\]",
+        "benar": "b"
+    }
+}, {
+    "soal15": {
+        "soal": "Dilatasi dengan faktor skala 3 dan berpusat pada titik \\[O(0,0)\\] memetakan titik \\[I(a, -2)\\] ke titik \\[{I}'(12, b)\\]. Maka nilai \\[a - b\\] adalah . . . .",
+        "a": "a. \\[14\\]",
+        "b": "b. \\[10\\]",
+        "c": "c. \\[2\\]",
+        "d": "d. \\[-2\\]",
+        "benar": "b"
+    }
+}, {
+    "soal16": {
+        "soal": "Perhatikan gambar di bawah ini <br> <img src='17.png' width='250' height='170'> <br>Hasil dari bayangan di atas motif batik (kawung) jika direfleksikan pada garis \\[x\\] adalah . . . .",
+        "a": "a. <br><img src='17a.png' width='250' height='170'>",
+        "b": "b. <br><img src='17b.png' width='250' height='170'>",
+        "c": "c. <br><img src='17cbenar.png' width='250' height='170'>",
+        "d": "d. <br><img src='17d.png' width='250' height='170'>",
+        "benar": "c"
+    }
+}, {
+    "soal17": {
+        "soal": "Perhatikan gambar di bawah ini <br> <img src='18.png' width='250' height='170'> <br> Jenis transformasi yang digunakan untuk membuat pola pada motif sasirangan hiris pudak di atas adalah . . . .",
+        "a": "a. Translasi",
+        "b": "b. Dilatasi",
+        "c": "c. Refleksi",
+        "d": "d. Rotasi",
+        "benar": "b"
+    }
+}, {
+    "soal18": {
+        "soal": "Perhatikan gambar di bawah ini <br> <img src='19.png' width='250' height='170'> <br>Hasil rotasi motif sasirangan hiris gagatas seperti gambar di atas dengan pusat \\[O(0,0)\\] berlawanan arah jarum jam sejauh \\[90^{\\circ}\\] bangun datar berikut adalah . . . .",
+        "a": "a. <br><img src='19a.png' width='250' height='170'>",
+        "b": "b. <br><img src='19b.png' width='250' height='170'>",
+        "c": "c. <br><img src='19c.png' width='250' height='170'>",
+        "d": "d. <br><img src='19dbenar.png' width='250' height='170'>",
+        "benar": "d"
+    }
+}, {
+    "soal19": {
+        "soal": "<img src='19.png' width='250' height='170'> Perhatikan gambar di samping, motif sasirangan gigi haruan ditranslasikan oleh . . . .",
+        "a": "a. \\[(2, 1)\\] ",
+        "b": "b. \\[(1, 2)\\]",
+        "c": "c. \\[(-2, 1)\\]",
+        "d": "d. \\[(1, -2)\\]",
+        "benar": "a"
+    }
+}]
