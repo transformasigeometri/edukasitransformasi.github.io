@@ -1,0 +1,133 @@
+@media only screen and  (max-width: 1024px) {/* NB*/
+	body {
+    background-color: white;
+  }
+.bungkus {
+        width:101.6vw;
+  }
+ article {
+    width:98.3vw;
+    height:75vh;
+  } 
+ nav {
+         float: left;
+          width: 20%;  /* lebar green*/
+          height: 420px;  /* tinggi green*/
+          padding: 10px 1px 10px 15px;
+        }
+.footer {
+        font-size: 15px;
+        padding: 1px;
+        margin-top: 420px;
+        }
+	.kanan {
+line-height: 23px;
+float: left;
+padding: 17px;
+width: 78%;
+   height: 420px; 
+}	
+	.judpen {
+  width: 625px;
+  border-radius: 5px;
+  text-align: center;
+  border: solid #006523 3px;
+  padding-top: 9px;
+  margin-left: 70px;
+  }	
+  
+  .petunjukt1{
+  font-size: 12px;
+}
+		#petunjukt1{
+  font-size: 13px;
+  width: 100%;
+
+}
+  .petunjukr2{
+  font-size: 12px;
+}
+		#petunjukr2{
+  font-size: 13px;
+  width: 100%;
+
+}
+		.bttn{
+          width: 18vw;
+        }
+		.dropdown-btn {
+width: 18vw;
+        }
+		.dropdown-container {
+width: 18vw;
+        }
+		#petunjuk{
+  font-size: 15px;
+    width: 100%;
+	  height: 55px;
+}
+.judref1 {
+  width: 677px;
+    font-size: 14px;
+  margin-left: 66px;
+  }
+  .judtrans1 {
+  width: 677px;
+    font-size: 14px;
+  margin-left: 66px;
+  }
+    .mySlides {
+    padding: 20px;
+  
+  }
+}
+.cst2{
+  text-align: center;
+  width: 40px;
+  height: 25px;
+  margin-bottom: 5px;
+}
+.csref1{
+  text-align: center;
+  width: 40px;
+  height: 25px;
+  margin-bottom: 5px;
+}
+.csref2{
+  text-align: center;
+  width: 40px;
+  height: 25px;
+  margin-bottom: 5px;
+}
+.csref3{
+  text-align: center;
+  width: 40px;
+  height: 25px;
+  margin-bottom: 5px;
+}
+.csrot1{
+  text-align: center;
+  width: 40px;
+  height: 25px;
+  margin-bottom: 5px;
+}
+.csrot2{
+  text-align: center;
+  width: 40px;
+  height: 25px;
+  margin-bottom: 5px;
+}
+.csdil1{
+  text-align: center;
+  width: 40px;
+  height: 25px;
+  margin-bottom: 5px;
+}
+.csdil2{
+  text-align: center;
+  width: 40px;
+  height: 25px;
+  margin-bottom: 5px;
+}
+
+

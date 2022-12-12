@@ -1,0 +1,102 @@
+[{
+    "soal0": {
+        "soal": "Titik \\[{A}'(-12, 6)\\] merupakan hasil bayangan dari titik \\[A(x, y)\\] yang didilatasikan dengan titik pusat \\[O(0,0)\\] dan faktor skala \\[-3\\]. Koordinat titik \\[A\\] adalah....",
+        "a": "a. \\[( -2 , 4 )\\]",
+        "b": "b. \\[( -4 , 2 )\\]",
+        "c": "c. \\[( 4 , -2 )\\]",
+        "d": "d. \\[( 2 , -4 )\\]",
+        "benar": "c",
+        "nih": "c. \\[( 4 , -2 )\\]"
+    }
+}, {
+    "soal1": {
+        "soal": "Jika titik \\[B(9, -1)\\] didilatasikan terhadap titik pusat \\[O\\] dengan faktor dilatasi \\[2\\], maka hasil bayangannya adalah....",
+        "a": "a. \\[{B}'( 18 , -2 )\\]",
+        "b": "b. \\[{B}'( -18 , 2 )\\]",
+        "c": "c. \\[{B}'( 11, 1 )\\]",
+        "d": "d. \\[{B}'( 1 , -11 )\\]",
+        "benar": "a",
+        "nih": "a. \\[{B}'( 18 , -2 )\\]"
+    }
+
+}, {
+    "soal2": {
+        "soal": "Titik \\[C(0, 5)\\] jika didilatasikan terhadap titik \\[P(1, -1) dengan faktor dilatasi \\[-2\\], titik bayangannya adalah....",
+        "a": "a. \\[{C}'( -13 , 3 )\\]",
+        "b": "b. \\[{C}'( -3 , 13 )\\]",
+        "c": "c. \\[{C}'( -2 , 2 )\\]",
+        "d": "d. \\[{C}'( 3 , -13 )\\]",
+        "benar": "d",
+        "nih": "d. \\[{C}'( 3 , -13 )\\]"
+    }
+}, {
+    "soal3": {
+        "soal": "Bayangan titik \\[D(21, -6)\\] merupakan hasil dari titik asal \\[D(-7, 2)\\] melalui titik pusat \\[O\\]. Maka nilai dari faktor dilatasi \\[(k)\\] adalah....",
+        "a": "a. \\[2\\]",
+        "b": "b. \\[-3\\]",
+        "c": "c. \\[-1\\]",
+        "d": "d. \\[-2\\]",
+        "benar": "b",
+        "nih": "b. \\[-3\\]"
+    }
+}, {
+    "soal4": {
+        "soal": "Titik \\[F(4, -7)\\] jika didilatasikan terhadap titik pusat \\[O\\] dan faktor dilatasi \\[-1\\]. Titik \\[{F}'\\] adalah....",
+        "a": "a. \\[( -4 , 7 )\\]",
+        "b": "b. \\[( 4 , 7 )\\]",
+        "c": "c. \\[( -7 , 4 )\\]",
+        "d": "d. \\[( 7 , 4 )\\]",
+        "benar": "a",
+        "nih": "a. \\[( -4 , 7 )\\]"
+    }
+}, {
+    "soal5": {
+        "soal": "Titik \\[{H}'(13, -13)\\] merupakan hasil dari bayangan dari titik \\[H(x, y)\\] yang didilatasikan dengan titik \\[K(-2, 2)\\] dan faktor skala \\[5\\]. Koordinat titik \\[H\\] adalah....",
+        "a": "a. \\[H(-1, 1)\\]",
+        "b": "b. \\[H(1, 1)\\]",
+        "c": "c. \\[H(1, -1)\\]",
+        "d": "d. \\[H(-1, -1)\\]",
+        "benar": "c",
+        "nih": "c. \\[H(1, -1)\\]"
+    }
+}, {
+    "soal6": {
+        "soal": "\\[ABCD\\] adalah sebuah persegi dengan koordinat titik-titik sudut \\[A(1, 1), B(2, 1), C(2, 2)\\] dan \\[D(1, 2)\\]. Bayangan dari titik-titik sudut persegi itu didilatasikan oleh \\[[0,2]\\] adalah....",
+        "a": "a. \\[{A}'(2, 2), {B}'(4, 3), {C}'(4, 4)\\] dan \\[{D}'(2, 4)\\]",
+        "b": "b. \\[{A}'(2, 2), {B}'(4, 2), {C}'(4, 4)\\] dan \\[{D}'(2, 3)\\]",
+        "c": "c. \\[{A}'(2, 2), {B}'(4, 3), {C}'(4, 4)\\] dan \\[{D}'(2, 3)\\]",
+        "d": "d. \\[{A}'(2, 2), {B}'(4, 2), {C}'(4, 4)\\] dan \\[{D}'(2, 4)\\]",
+        "benar": "d",
+        "nih": "d. \\[{A}'(2, 2), {B}'(4, 2), {C}'(4, 4)\\] dan \\[{D}'(2, 4)\\]"
+    }
+}, {
+    "soal7": {
+        "soal": "Jika titik koordinat \\[A(3, 5)\\] didilatasikan dengan faktor dilatasi \\[2\\] dan pusat \\[O\\], maka titik koordinat yang sudah didilatasi adalah....",
+        "a": "a. \\[{A}'(5, 10)\\]",
+        "b": "b. \\[{A}'(6, 10)\\]",
+        "c": "c. \\[{A}'(5, 7)\\]",
+        "d": "d. \\[{A}'(6, 7)\\]",
+        "benar": "b",
+        "nih": "b. \\[{A}'(6, 10)\\]"
+    }
+}, {
+    "soal8": {
+        "soal": "Koordinat titik \\[P(4, 2), Q(9, 4)\\] dan \\[R(6, 8)\\] merupakan titik-titik sudut \\[PQR\\]. Koordinat bayangan ketiga titik tersebut didilatasi \\[[0, 2]\\] berturut-turut adalah....",
+        "a": "a. \\[(0, 4), (0,8)\\] dan \\[(0, 16)\\]",
+        "b": "b. \\[(4, 4), (9, 8)\\] dan \\[(6, 16)\\]",
+        "c": "c. \\[(6, 4), (11, 6)\\] dan \\[(8, 10)\\]",
+        "d": "d. \\[(8, 4), (18, 8)\\] dan \\[(12, 16)\\]",
+        "benar": "d",
+        "nih": "d. \\[(8, 4), (18, 8)\\] dan \\[(12, 16)\\]"
+    }
+}, {
+    "soal9": {
+        "soal": "Koordinat titik \\[{P}'(-6, 9)\\] diperoleh dari titik \\[P(2, -3)\\] dengan dilatasi \\[[0, k]\\]. Nilai \\[k\\] adalah....",
+        "a": "a. \\[3\\]",
+        "b": "b. \\[-\\frac{1}{3}\\]",
+        "c": "c. \\[\\frac{1}{3}\\]",
+        "d": "d. \\[-3\\]",
+        "benar": "d",
+        "nih": "d. \\[-3\\]"
+    }
+}]

@@ -1,0 +1,402 @@
+* {
+    box-sizing: border-box; /*kolom utamanya*/
+  }
+  
+  body {
+    font-family: Georgia, 'Footlight MT Light', Times, serif;
+  }
+  
+  /* Header coyy*/
+  header {
+    height: 120px;
+
+  }
+  
+  a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+  }
+  
+  a:hover {
+    background-color: #ddd;
+    color: rgb(41, 110, 39);
+  }
+  
+  .list{
+    color: white;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 20px;
+  }
+  
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(202, 235, 198);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(147, 226, 167);
+  }* {
+    box-sizing: border-box; /*kolom utamanya*/
+  }
+  
+  body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  /* Header coyy*/
+ 
+  
+  .hidde{
+    display: none;
+  }
+  .previous {
+    margin-left: 25px;
+    background-color: #f1f1f1;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .petunjuksoal{
+    background-color: #538f23;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    margin-top:10px;
+  }
+  
+  .petunjuksoal:hover {background-color: #b9ff80}
+  
+  .petunjuksoal:active {
+    background-color: #538f23;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .petunjuksoal1{
+    background-color: #538f23;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    margin-top:100px;
+  }
+  
+  .petunjuksoal1:hover {background-color: #8dd870}
+  
+  .petunjuksoal1:active {
+    background-color: #538f23;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .petunjuksoal2{
+    background-color: #538f23;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+    margin-top:100px;
+  }
+  
+  .petunjuksoal2:hover {background-color: #8dd870}
+  
+  .petunjuksoal2:active {
+    background-color: #8dd870;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+  }
+  
+  a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .list{
+    color: white;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 20px;
+  }
+  
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(100, 202, 126);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  .text{
+    color: white;
+    font-size: 20px;
+  }
+  
+  .pilih{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 30px; 
+    text-align: center;
+  }
+  
+  
+  .tombol{
+    width: 100%;
+    height: 485px;
+    background-color: rgba(255, 255, 255, 0.89);
+  }
+  
+  .over  { text-decoration: overline; }
+  
+  .kikd{
+    background-color: white;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-top: 70px;
+    margin-left: 200px;
+  }
+  
+  .kikd:hover {background-color: #8dd870}
+  
+  .kikd:active {
+    background-color: #8dd870;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
+  .materi{
+    background-color: white;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-top: 70px;
+    margin-left: 50px;
+  }
+  
+  .materi:hover {background-color: #8dd870}
+  
+  .materi:active {
+    background-color: #8dd870;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
+  .info{
+    background-color: white;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-top: 70px;
+    margin-left: 50px;
+  }
+  
+  .info:hover {background-color: #8dd870}
+  
+  .info:active {
+    background-color: #8dd870;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
+  article{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px; 
+    font-weight: 700; 
+    line-height: 26.4px;
+    width: 100%;
+   background-color: rgb(225, 255, 198);
+    height: 510px; 
+  }
+  
+  footer {
+    background-color: rgb(100, 202, 126);
+    font-family: Baskerville, "Baskerville Old Face",serif; 
+    padding: 10px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: Baskerville, "Baskerville Old Face",serif;
+  }
+  th, td {
+    padding: 15px;
+    text-align: center;
+  }
+  #t01 {
+    width: 70%;    
+    background-color: #f7fff1;
+  }
+
+  th{
+    background-color:#8dd870 ;
+  }
+  
+  
+  /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens, kada ngaruh sih*/
+  @media (max-width: 992px) {
+    article {
+      width: 100%;
+      height: 100%;
+      float:none;
+      font-size: 3vw;
+      min-height: 800;
+    }
+  
+    .tombol{
+      height: 100%;
+      font-size: 3vw;
+    }
+    header {
+    background-color: #8dd870;
+    height: 10%;
+    padding: 30px 15px;
+    text-align:center;
+    font-weight: bold;
+    color: white;
+    font-size: 8vw;
+    }
+    .kikd{
+      margin-top: 30px;
+      margin-left: 65px;
+      font-size: 5vw;
+    }
+  
+  .kikd:hover {background-color: #8dd870}
+  
+  .kikd:active {
+    background-color: #8dd870;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
+    .materi{
+      margin-top: 40px;
+      margin-left: 65px;
+      font-size: 6vw;
+    }
+  
+  .materi:hover {background-color: #8dd870}
+  
+  .materi:active {
+    background-color: #8dd870;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
+    .info{
+      margin-top: 40px;
+      margin-left: 65px;
+      font-size: 5vw;
+    }
+  
+    .info:hover {background-color: #8dd870}
+  
+  .info:active {
+    background-color: #8dd870;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
+    footer{
+      height: 10%;
+      text-align:center;
+      padding: 20px 10px;
+      font-size: 4vw;
+    }
+  
+    .text{
+      font-size: 4vw;
+      height: auto;
+      width: 500px;
+    }
+     
+    img{
+      width: 100%;
+      height: auto;
+    }
+  }

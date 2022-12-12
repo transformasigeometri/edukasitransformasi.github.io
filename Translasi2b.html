@@ -1,0 +1,209 @@
+<html>
+<head>
+<title> Translasi </title>
+<link href="qmateri.css" rel="stylesheet" type="text/css" media="screen" />
+<link rel="stylesheet" href="responsivemateri.css">
+<link rel="stylesheet" href="responsivemateriHP11.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+  <img src="judul.gif" style="width:100%"; height="100px"> 
+<ul>
+  <li><a href="index.html"><img src="home.png" width="60" height="35"></a></li>
+      </ul>
+	  	        <div class="bungkus">
+      <nav>
+        <button class="bttn" button onclick="location.href='Apersepsi.html'">Apersepsi</button>
+        <div class="button-nav">
+        <button class="dropbtn dropdown-btn" onclick="ftampil()">1. Translasi
+          <i class="fa fa-caret-down"></i>
+        </button>
+  
+        <div class="dropdown-content dropdown-containerr">
+          <a href="Translasi1.html" >1.1 Translasi Titik dan Garis</a>
+          <a href="Translasi2.html" class="hvr">1.2 Translasi Bidang</a>
+          <a href="TranslasiC.html">Rangkuman</a>
+          <a href="kuis1_awal.html">Kuis</a>
+        </div>
+  
+    
+        
+         <button class="dropbtn dropdown-btn" onclick="ftampil()">2. Refleksi 
+            <i class="fa fa-caret-down"></i>
+        </button>
+  
+         <div class="dropdown-content dropdown-container">
+           <a href="Refleksi1.html">2.1 Refleksi terhadap sumbu-X, sumbu-Y, dan Titik Asal 0</a>
+           <a href="Refleksi2.html">2.2 Refleksi terhadap garis y=x dan y=-x</a>
+           <a href="Refleksi3.html">2.3 Refleksi terhadap garis x=a dan y=b</a>
+           <a href="RefleksiC.html">Rangkuman</a>
+           <a href="kuis2_awal.html">Kuis</a>
+           
+          </div>
+        
+   
+      
+          <button class="dropbtn dropdown-btn" onclick="ftampil()">3. Rotasi
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content dropdown-container">
+            <a href="Rotasi1.html">3.1 Rotasi dengan pusat O(0,0)</a>
+            <a href="Rotasi2.html">3.2 Rotasi dengan pusat P(a,b)</a>
+            <a href="RotasiC.html">Rangkuman</a>
+            <a href="kuis3_awal.html">Kuis</a>
+          </div>
+  
+          <button class="dropbtn dropdown-btn" onclick="ftampil()">4. Dilatasi
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content dropdown-container">
+            <a href="Dilatasi1.html">4.1 Dilatasi dengan pusat O(0,0)</a>
+            <a href="Dilatasi2.html">4.2 Dilatasi dengan pusat P(a,b)</a>
+            <a href="DilatasiC.html">Rangkuman</a>
+            <a href="kuis4_awal.html">Kuis</a>
+          </div>
+  
+        <button class="bttn" button onclick="location.href='penerapan.html'">Penerapan Transformasi Geometri dalam Pemecahan Masalah</button>
+        <button class="bttn" button onclick="location.href='evaluasi.html'">Evaluasi</button>
+    
+        </div>
+        </nav>
+       
+    <div class="kanan">
+      <div class="judpen">
+        <h2>1.2 Translasi Bidang</h2></div>
+        <br>
+        <button class="petunjuk">Petunjuk Untuk Mengisi Jawaban</button>
+                    <div id="petunjuk">
+                      
+                      <p>1. Tekan button pembahasan (<img src="pembahasan.PNG" width="90px">) untuk melihat penjelasan jawaban pada contoh soal<br>
+                      2. Isilah jawaban pada titik-titik dengan benar<br>
+                      3. Jika jawaban benar, kotak berwarna hijau<br>
+                      4. Jika jawaban salah, kotak berwarna merah</p><br>
+                    
+                    </div>
+     <br>
+    <p class="judt1" id="uk">
+      <img src="buku1.png" width="50px" height="25px">
+      Translasi Bidang
+    </p>
+    
+      <div class="cthsoaltrans2">
+        <img src="contohsoal.png" width="250" height="70" class="gmb">
+        
+        <p><center><img src="transbid2.PNG"width="210" height="240"></center>
+            <center>
+                <i>
+                    <b>Gambar 3.</b>
+                 Segitiga ABC
+                </i>
+              </center> </p> 
+        <p>Diketahui segitiga \[ABC\] pada gambar 3 di atas. Tentukan bayangan bangun tersebut oleh translasi :
+        <br>&nbsp;&nbsp;&nbsp; a. (-9,1)
+        <br>&nbsp;&nbsp;&nbsp; b. (1,12)
+        <br>
+        <br><p class="klik1cst" id="klik1">Pembahasan :</p>
+        <p class="hilang" id="hilang1">
+          <div class="pembhasan hilang">
+            <br><p class="klik1cst" id="klik2">a. (-9, 1)</p>     
+            <div class="hilang" id="hilang2">
+	
+    <br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Koordinat \[A(2,7)\] ditranslasi oleh \[(-9,1)\] menghasilkan \[{A}'(\]<input id="cthst2" type="text" value placeholder="...,..." style="width: 50px;" class="cst2 ">\[)\]
+            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Koordinat \[B(2,1)\] ditranslasi oleh \[(-9,1)\] menghasilkan \[{B}'(\]<input id="cthst2" type="text" value placeholder="...,..." style="width: 50px;" class="cst2 ">\[)\]
+            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Koordinat \[C(5,1)\] ditranslasi oleh \[(-9,1)\] menghasilkan \[{C}'(\]<input id="cthst2" type="text" value placeholder="...,..." style="width: 50px;" class="cst2 ">\[)\]
+            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style="color:red">\[\therefore\]</b> Segitiga \[A(2,7)\] menghasilkan bayangan \[{A}'(\]<input id="cthst2" type="text" value placeholder="...,..." style="width: 50px;" class="cst2 ">\[)\], \[B(2,1)\] menghasilkan bayangan \[{B}'(\]<input id="cthst2" type="text" value placeholder="...,..." style="width: 50px;" class="cst2 ">\[)\] dan \[C(5,1)\] menghasilkan bayangan \[{C}'(\]<input id="cthst2" type="text" value placeholder="...,..." style="width: 50px;" class="cst2 ">\[)\] yang ditranslasikan oleh titik <b style="color:red">\[T=(-9,1)\]</b>.
+          </p>
+          <p class="judt2" id="uk">
+            Menggambar Translasi
+          </p>
+            <button class="petunjuk">Petunjuk Menggambar Bayangan Hasil Translasi</button>
+                    <div id="petunjuk">
+                      
+                      <p>Jika telah mengisi jawaban dengan benar, cobalah gambar translasi pada bidang kartesius di bawah ini.
+                      Langkah-langkahnya sebagai berikut:<br>
+                      1. Membuat titik<br>
+                      &nbsp;&nbsp;a. Misal membuat titik A (0,0) dengan mengklik menu <img src="Titik.PNG" width="30px"><br>
+                      &nbsp;&nbsp;b. Arahkan kursor ke bidang kartersius pada titik (0,0)<br>
+                      &nbsp;&nbsp;c. Kemudian klik pada titik yang telah dipilih<br>
+                      &nbsp;&nbsp;d. Lakukan hal yang sama untuk titik yang lainnya.<br>
+                      2. Membuat vektor dengan menghubungkan titik-titik pada bidang kartesius<br>
+                      &nbsp;&nbsp;a. Klik menu <img src="hubtitik.PNG" width="30px"><br>
+                      &nbsp;&nbsp;b. Pilih <img src="vektor.PNG" width="30px"><br>
+                      3. Membuat hasil bayangan dari translasi<br>
+                      &nbsp;&nbsp;a. Klik menu <img src="trans.PNG" width="30px"><br>
+                      &nbsp;&nbsp;b. Pilih <img src="translasii.PNG" width="160px"><br>
+                      &nbsp;&nbsp;c. Klik titik A<br>
+                      &nbsp;&nbsp;d. Kemudian klik vektor<br>
+                      </div>
+            <iframe src="https://www.geogebra.org/classic/mkwwyhg4?embed" class="geo" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+            
+                  </div>
+            <br><p class="klik1cst" id="klik3">b. (1, 12)</p>     
+            <div class="hilang" id="hilang3"><br>
+			<br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Koordinat \[A(2,7)\] ditranslasi oleh \[(1,12)\] menghasilkan \[{A}'(\]<input id="cthst2" type="text" value placeholder="...,..." style="width: 50px;" class="cst2 ">\[)\]
+            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Koordinat \[B(2,1)\] ditranslasi oleh \[(1,12)\] menghasilkan \[{B}'(\]<input id="cthst2" type="text" value placeholder="...,..." style="width: 50px;" class="cst2 ">\[)\]
+            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Koordinat \[C(5,1)\] ditranslasi oleh \[(1,12)\] menghasilkan \[{C}'(\]<input id="cthst2" type="text" value placeholder="...,..." style="width: 50px;" class="cst2 ">\[)\]
+            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style="color:red">\[\therefore\]</b> Segitiga \[A(2,7)\] menghasilkan bayangan \[{A}'(\]<input id="cthst2" type="text" value placeholder="...,..." style="width: 50px;" class="cst2 ">\[)\], \[B(2,1)\] menghasilkan bayangan \[{B}'(\]<input id="cthst2" type="text" value placeholder="...,..." style="width: 50px;" class="cst2 ">\[)\] dan \[C(5,1)\] menghasilkan bayangan \[{C}'(\]<input id="cthst2" type="text" value placeholder="...,..." style="width: 50px;" class="cst2 ">\[)\] yang ditranslasikan oleh titik <b style="color:red">\[T=(1,12)\]</b>.
+            </p>
+            <p class="judt2" id="uk">
+              Menggambar Translasi
+            </p>
+              <button class="petunjuk">Petunjuk Menggambar Bayangan Hasil Translasi</button>
+                      <div id="petunjuk">
+                        
+                        <p>Jika telah mengisi jawaban dengan benar, cobalah gambar translasi pada bidang kartesius di bawah ini.
+                        Langkah-langkahnya sebagai berikut:<br>
+                        1. Membuat titik<br>
+                        &nbsp;&nbsp;a. Misal membuat titik A (0,0) dengan mengklik menu <img src="Titik.PNG" width="30px"><br>
+                        &nbsp;&nbsp;b. Arahkan kursor ke bidang kartersius pada titik (0,0)<br>
+                        &nbsp;&nbsp;c. Kemudian klik pada titik yang telah dipilih<br>
+                        &nbsp;&nbsp;d. Lakukan hal yang sama untuk titk yang lainnya.<br>
+                        2. Membuat vektor dengan menghubungkan titik-titik pada bidang kartesius<br>
+                        &nbsp;&nbsp;a. Klik menu <img src="hubtitik.PNG" width="30px"><br>
+                        &nbsp;&nbsp;b. Pilih <img src="vektor.PNG" width="30px"><br>
+                        3. Membuat hasil bayangan dari translasi<br>
+                        &nbsp;&nbsp;a. Klik menu <img src="trans.PNG" width="30px"><br>
+                        &nbsp;&nbsp;b. Pilih <img src="translasii.PNG" width="160px"><br>
+                        &nbsp;&nbsp;c. Arahkan kursor pada titik A<br>
+                        &nbsp;&nbsp;d. Kemudian arahkan kursor pada vektor<br>
+                        </div>
+              <iframe src="https://www.geogebra.org/classic/mkwwyhg4?embed" class="geo" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+              
+                    </div>
+          </div>
+        </p>
+      
+      </div>
+      
+</div>
+</div>
+
+
+<footer>
+  <div class="footer">
+    <a href="Translasi2.html" class="back"><img src="back.png" width="30px" height="30px"></a>
+    <a href="Translasi2.html"class="satu"><img src="satu.png" width="30px" height="30px"></a>
+    <a class="active" href="Translasi2b.html"class="dua"><img src="dua.png" width="30px" height="30px"></a>
+    <a href="Translasi2c.html"class="tiga"><img src="tiga.png" width="30px" height="30px"></a>
+    <a href="Translasi2c.html" class="next"><img src="next.png" width="30px" height="30px"></a>
+    
+  </div>
+    </footer>
+
+<!-- 
+<script src="https://www.geogebra.org/apps/deployggb.js"></script>
+<script>  
+  var params = {"appName": "translasi1.ggb", "width": 800, "height": 600, "showToolBar": true, "showAlgebraInput": true, "showMenuBar": true };
+  var applet = new GGBApplet(params, true);
+  window.addEventListener("load", function() { 
+      applet.inject('ggb-element');
+  });
+</script> -->
+<script src="materitrans2.js"></script>
+<script src="csoaltrans2.js"></script>
+
+
+</body>
+</html>

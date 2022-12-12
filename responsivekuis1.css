@@ -1,0 +1,57 @@
+@media only screen and  (max-width: 1024px) { /* NB*/
+body {
+    background-color: white;
+  }
+main{
+	height: 467px;
+  font-size: 12px;
+}
+img{
+	height: 60px;
+}
+.konten{
+	margin: 0px;
+	background-color: white;
+  border-radius: 15px;
+}
+.judul{
+  font-weight: bold;
+  font-size: 20px;
+}
+.petunjuk{
+  margin: 0px;
+  padding-left: 0px;
+}
+.kliktunjuk{
+  width: 48%;
+  font-size: 13px;
+}
+.kotak{
+  width: 47%;
+  padding: 4px;
+  border-top: 5px solid #006523;
+  margin-left: 280px;
+}
+.subbab{
+  padding: 2px;
+  font-size: 20px;
+}
+.kembali{
+  border-radius: 8px;
+  margin-right: 20px;
+}
+.lanjut, .tmblUlang{
+    border-radius: 8px;
+}
+.data_diri{
+    border: 5px solid #048a0f;
+    padding: 7px 20px 20px 20px;
+	  border-radius: 8px;
+}
+.kiri {
+  height: 460px;
+  padding: 28px;
+}
+}
+
+
