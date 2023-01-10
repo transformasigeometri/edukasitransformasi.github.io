@@ -38,8 +38,8 @@ label {
     padding: 0px 10px;
 }
 
-.lanjut, .tmblUlang{
-    background-color: #02da0d;
+.lanjut, .tmblUlang, .mtrslnjt{
+    background-color: #549d57;
     color: white;
     padding: 10px 30px 10px 30px;
     border-radius: 5px;
@@ -449,7 +449,7 @@ p{
         height: auto;
     }
     .t_hasil{
-        border: 4px solid rgb(9, 64, 82);
+        border: 4px solid rgb(0, 139, 63);
         border-radius: 5px;
         padding: 5px;
         width: 97%;
